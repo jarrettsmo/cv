@@ -1,0 +1,39 @@
+/* *********************************  ********************************* */
+
+/*
+    WEBSITE COLOR SCHEME
+    -------------------------------------------------------------------
+    DESCRIPTION                 HEX             RGB
+    Beige                       #E7DEC8         rgb(231, 222, 200)
+    Brown                       #CBAF87         rgb(203, 175, 135)
+    Blue-Gray                   #7E8A97         rgb(126, 138, 151)                   
+    Navy                        #30475E         rgb(48, 71, 94)
+    -------------------------------------------------------------------
+    COLOR-THEME: https://colorhunt.co/palette/e7dec8cbaf877e8a9730475e
+    COLOR-PICKER: https://www.w3schools.com/colors/colors_picker.asp
+*/
+
+/* ********************************* TAG STYLES ********************************* */
+
+body {
+    background-color: rgb(231, 222, 200);
+}
+
+h1, h3 {
+    color: rgb(48, 71, 94);
+}
+
+hr {
+    border-color: rgb(203, 175, 135);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+/* ********************************* CLASS STYLES ********************************* */
+
+
+
+/* ********************************* ID STYLES ********************************* */
+
